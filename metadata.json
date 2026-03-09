@@ -1,0 +1,5 @@
+{
+  "name": "Across the Pond",
+  "description": "A personal travel planner and itinerary viewer based on a Google Sheet schedule.",
+  "requestFramePermissions": []
+}
