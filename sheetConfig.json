@@ -1,0 +1,9 @@
+{
+  "tsvUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYstUoLaKJ2u4zaFgfuMy63SNdnr0seelttXK0ivrAngvNXXA4ne9B9ZyKQZ1FlxINR_FdfJg39ijd/pub?output=tsv",
+  "defaultIcon": "crown",
+  "colors": {
+    "navy": "#001F3F",
+    "gold": "#D4AF37",
+    "cream": "#FDF5E6"
+  }
+}
