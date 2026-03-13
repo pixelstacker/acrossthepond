@@ -1,4 +1,4 @@
-const CACHE_NAME = 'across-the-pond-v3';
+const CACHE_NAME = 'across-the-pond-v4';
 const ASSETS = [
   'index.html',
   'sheetConfig.json',
