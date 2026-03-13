@@ -1,11 +1,8 @@
 const CACHE_NAME = 'across-the-pond-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/src/main.tsx',
-  '/src/App.tsx',
-  '/src/index.css',
-  '/sheetConfig.json'
+  './',
+  'index.html',
+  'sheetConfig.json'
 ];
 
 self.addEventListener('install', (event) => {
