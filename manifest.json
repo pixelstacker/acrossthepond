@@ -1,0 +1,21 @@
+{
+  "name": "Across the Pond - Travel Itinerary",
+  "short_name": "AcrossPond",
+  "description": "Your ultimate travel companion for UK and beyond.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/crown/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/crown/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
