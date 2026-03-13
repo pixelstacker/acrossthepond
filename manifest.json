@@ -2,7 +2,7 @@
   "name": "Across the Pond - Travel Itinerary",
   "short_name": "AcrossPond",
   "description": "Your ultimate travel companion for UK and beyond.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0A192F",
   "theme_color": "#0A192F",
